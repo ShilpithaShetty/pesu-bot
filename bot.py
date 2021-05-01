@@ -3,7 +3,7 @@ from discord.ext import commands
 import os
 from dotenv import load_dotenv
 from discord_slash import SlashCommand
-
+#learning git
 load_dotenv('.env')
 TOKEN = os.getenv('DISCORD_TOKEN')
 
